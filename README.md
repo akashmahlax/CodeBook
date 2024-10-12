@@ -92,7 +92,7 @@ We welcome contributions from the developer community! Let’s build a massive l
 1. **Fork the Repository**: Click on the "Fork" button in the top right of this page.
 2. **Clone Your Fork**:
     ```bash
-    git clone https://github.com/your-username/CodeBook.git
+    git clone https://github.com/akashmahlax/CodeBook.git
     cd CodeBook
     ```
 3. **Create a New Branch**:
@@ -115,7 +115,7 @@ We welcome contributions from the developer community! Let’s build a massive l
 
 ## 🔍 Open Issues:
 
-Check out our [Issues page](https://github.com/your-repo/issues) to see areas that need help, or to suggest new sections/features.
+Check out our [Issues page](https://github.com/CodeBook/issues) to see areas that need help, or to suggest new sections/features.
 
 ---
 
@@ -124,8 +124,8 @@ Check out our [Issues page](https://github.com/your-repo/issues) to see areas th
 Join the CodeBook community! Share your ideas, ask questions, and collaborate with other developers.  
 We encourage all users to participate in discussions and contribute to the project.
 
-- **[GitHub Discussions](https://github.com/your-repo/discussions)**: Join the conversation.
-- **[Feature Requests](https://github.com/your-repo/issues/new?template=feature_request.md)**: Got an idea? Request a feature!
+- **[GitHub Discussions](https://github.com/CodeBook/discussions)**: Join the conversation.
+- **[Feature Requests](https://github.com/CodeBook/issues/new?template=feature_request.md)**: Got an idea? Request a feature!
 
 ---
 
@@ -148,7 +148,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 🌟 Stay Updated 🌟
 
 ⭐ **Star this repo** to stay updated on new sections, features, and contributions!  
-Follow us on **[GitHub](https://github.com/your-repo)** for future projects and collaborations.
+Follow us on **[GitHub](https://github.com/akashmahla/CodeBook)** for future projects and collaborations.
 ```
 
 This markdown file is ready for your project. It includes sections on contributing, ideas for contribution, open issues, community discussions, future plans, licensing, and how to stay updated. You can copy and paste it directly into your **README.md** file on GitHub. Let me know if you need further modifications!
