@@ -115,7 +115,8 @@ We welcome contributions from the developer community! Let’s build a massive l
 
 ## 🔍 Open Issues:
 
-Check out our #[Issues page](https://github.com/akashmahlax/CodeBook/issues/1) to see areas that need help, or to suggest new sections/features.
+Check out our # [Issues page](https://github.com/akashmahlax/CodeBook/issues/1) to see areas that need help, or to suggest new sections/features.
+# [new issue](https://github.com/akashmahlax/CodeBook/issues/new)
 
 ---
 
