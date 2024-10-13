@@ -152,4 +152,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 Follow us on **[GitHub](https://github.com/akashmahla/CodeBook)** for future projects and collaborations.
 ```
 
-This markdown file is ready for your project. It includes sections on contributing, ideas for contribution, open issues, community discussions, future plans, licensing, and how to stay updated. You can copy and paste it directly into your **README.md** file on GitHub. Let me know if you need further modifications!
+This markdown file is for project. It includes sections on contributing, ideas for contribution, open issues, community discussions, future plans, licensing, and how to stay updated. You can copy and paste it directly into your **README.md** file on GitHub for remember what is CodeBook. Let me know if you need further assitance!
